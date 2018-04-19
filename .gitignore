@@ -1,0 +1,12 @@
+.idea
+.idea/
+.idea/*
+.settings
+.settings/
+target
+target/
+.classpath
+.ignore
+.myhibernatedata
+.project
+MyBlog.iml
